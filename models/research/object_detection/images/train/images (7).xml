@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Camera</folder>
+	<filename>images (7).jpg</filename>
+	<path>C:\Users\nandhinipriya.t.s\Desktop\Camera\images (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>139</ymin>
+			<xmax>144</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>81</ymin>
+			<xmax>200</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>
