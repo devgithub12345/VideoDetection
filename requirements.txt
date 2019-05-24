@@ -1,5 +1,0 @@
-opencv-python
-numpy
-flask
-pillow
-gunicorn==19.7.1

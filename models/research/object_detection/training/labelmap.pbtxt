@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'macncheese'
+}
+
+item {
+  id: 2
+  name: 'camera'
+}
+
+item {
+  id: 3
+  name: 'lens'
+}
+
+item {
+  id: 4
+  name: 'flash'
+}
